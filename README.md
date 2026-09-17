@@ -1,2 +1,3 @@
-# mcaulay
-A repository for McAulay's work
+## alexander mcaulay
+
+A repository for his work.
