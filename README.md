@@ -1,2 +1,2 @@
 # mcaulay
-A repository for McAulay's Multenions work
+A repository for McAulay's work
